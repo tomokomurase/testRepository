@@ -5,3 +5,5 @@ second test
 brach sub
 
 remote repositry
+
+merge test
